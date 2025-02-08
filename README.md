@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikita
 ==============================================================================================================================
 
-Beginner DevOps Engineer and Computer Science Student
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Beginner DevOps Engineer and Computer Science Student)](https://git.io/typing-svg)
 -----------------------------------------------------
 
 I am interested in DevOps, System Administration, and Networking. I am currently studying at GGPC. I enjoy learning about new technologies and improving my skills in these areas.
